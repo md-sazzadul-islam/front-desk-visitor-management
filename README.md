@@ -87,7 +87,7 @@ MAIL_PASSWORD=0256d421515e5d
 MAIL_ENCRYPTION=tls
 ```
 
-## Demo Login
+## Login Info
 
 Use the following demo accounts to log in:
 
